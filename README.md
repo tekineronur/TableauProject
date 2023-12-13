@@ -9,8 +9,10 @@ Explore various demographics (categories, locations, etc.) to identify patterns.
 Create compelling visualizations to showcase data insights.
 Identify influential factors impacting sales and revenue.
 Provide actionable recommendations for future business growth based on the analysis.
-Analysis Focus
-The analysis will concentrate on:
+
+# Analysis Focus
+
+# The analysis will concentrate on:
 
 Year-on-year sales and revenue trends.
 Demographic-based performance (categories, locations, etc.).
