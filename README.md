@@ -11,14 +11,12 @@ Identify influential factors impacting sales and revenue.
 Provide actionable recommendations for future business growth based on the analysis.
 
 # Analysis Focus
-
-# The analysis will concentrate on:
-
 Year-on-year sales and revenue trends.
 Demographic-based performance (categories, locations, etc.).
 Factors influencing sales and revenue.
 Predictive insights for future growth.
-How to Use
+
+# How to Use
 Clone the repository to your local machine.
 Access the Tableau project file using Tableau Desktop or Tableau Public.
 Explore the visualizations and findings within the workbook.
